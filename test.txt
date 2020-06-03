@@ -6,4 +6,3 @@
 
 hello world
 
-t_maeshima
